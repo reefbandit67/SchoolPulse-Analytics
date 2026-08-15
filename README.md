@@ -6,7 +6,8 @@ I built the project as an end-to-end analytics case study using **Visual Paradig
 
 > **Important:** One academic term was used to demonstrate the project, but the logic is designed to work throughout the school year. The same process can be repeated for each term so that school management can continuously monitor student performance before final exams.
 
-![School Overview]<img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/74cfb67e-775b-400a-8bd8-826fffbab4df" />
+### School Overview
+<img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/74cfb67e-775b-400a-8bd8-826fffbab4df" />
 
 
 ## Project Objective
