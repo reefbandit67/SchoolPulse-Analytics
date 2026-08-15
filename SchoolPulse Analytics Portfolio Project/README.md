@@ -102,20 +102,20 @@ The report also includes drill-through pages for deeper analysis:
 ## Dashboard Screenshots
 
 ### Student Support
-![Student Support](<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/9d4ae4b7-d1ad-4126-9b92-e4fe3930c6cb" />)
+![Student Support]<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/9d4ae4b7-d1ad-4126-9b92-e4fe3930c6cb" />
 
 
 ### Class Performance
-![Class Performance](<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/63507e4a-cbb6-486a-9450-450df35effd2" />)
+![Class Performance]<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/63507e4a-cbb6-486a-9450-450df35effd2" />
 
 
 ### Subject Performance
-![Subject Performance](<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/399214f3-283b-4876-a231-143aa15dc609" />
-)
+![Subject Performance]<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/399214f3-283b-4876-a231-143aa15dc609" />
+
 
 ### Student Profile
-![Student Profile](<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/eef4469c-9baf-4b18-b829-dc67ba2c4ee8" />
-)
+![Student Profile]<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/eef4469c-9baf-4b18-b829-dc67ba2c4ee8" />
+
 
 ## What the Project Demonstrates
 
