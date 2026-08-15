@@ -6,7 +6,8 @@ I built the project as an end-to-end analytics case study using **Visual Paradig
 
 > **Important:** One academic term was used to demonstrate the project, but the logic is designed to work throughout the school year. The same process can be repeated for each term so that school management can continuously monitor student performance before final exams.
 
-![School Overview](Screenshots/01%20-%20School%20Overview.png)
+![School Overview]<img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/74cfb67e-775b-400a-8bd8-826fffbab4df" />
+
 
 ## Project Objective
 
@@ -101,16 +102,20 @@ The report also includes drill-through pages for deeper analysis:
 ## Dashboard Screenshots
 
 ### Student Support
-![Student Support](Screenshots/02%20-%20Student%20Support.png)
+![Student Support](<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/9d4ae4b7-d1ad-4126-9b92-e4fe3930c6cb" />)
+
 
 ### Class Performance
-![Class Performance](Screenshots/03%20-%20Class%20Performance.png)
+![Class Performance](<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/63507e4a-cbb6-486a-9450-450df35effd2" />)
+
 
 ### Subject Performance
-![Subject Performance](Screenshots/04%20-%20Subject%20Performance.png)
+![Subject Performance](<img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/399214f3-283b-4876-a231-143aa15dc609" />
+)
 
 ### Student Profile
-![Student Profile](Screenshots/07%20-%20Student%20Profile.png)
+![Student Profile](<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/eef4469c-9baf-4b18-b829-dc67ba2c4ee8" />
+)
 
 ## What the Project Demonstrates
 
